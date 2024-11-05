@@ -1,0 +1,3 @@
+function simFuncao() {
+    alert("É PRA SEMPRE MESMO, EM???????");
+}
